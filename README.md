@@ -19,8 +19,8 @@
 | Лабораторна робота | Статус виконання |
 |-------------------------------------------|---------------|
 | [Вступ, робота з Markdown](init/README.md)|:heavy_check_mark:|
-| [Лабораторна робота 1](1_lab/README.md)  |:heavy_check_mark:|
-| Лабораторна робота 2                      |:smiling_imp:|
+| [Лабораторна робота 1](1_lab/README.md)   |:heavy_check_mark:|
+| [Лабораторна робота 2](3_lab/README.md)   |:smiling_imp:|
 | Лабораторна робота 3                      |:smiling_imp:|
 | Лабораторна робота 4                      |:smiling_imp:|
 | Лабораторна робота 5                      |:smiling_imp:|
