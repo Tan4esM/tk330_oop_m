@@ -22,5 +22,5 @@
 | [Лабораторна робота 1](1_lab/README.md)   |:heavy_check_mark:|
 | [Лабораторна робота 2](2_lab/README.md)   |:heavy_check_mark:|
 | [Лабораторна робота 3](3_lab/README.md)   |:heavy_check_mark:|
-| Лабораторна робота 4                      |:smiling_imp:|
+| [Лабораторна робота 4](4_lab/README.md)   |:heavy_check_mark:|
 | Лабораторна робота 5                      |:smiling_imp:|
