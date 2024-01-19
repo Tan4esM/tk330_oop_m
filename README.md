@@ -17,10 +17,10 @@
 **Таблиця лабораторних робіт**:
 
 | Лабораторна робота | Статус виконання |
-|--------------------------------------------------------------------|------------------|
-| [Вступ, робота з Markdown](init/README.md)                         |:heavy_check_mark:|
-| [Лабораторна робота 1](1_lab/README.md)                            |:heavy_check_mark:|
-| [Лабораторна робота 2](2_lab/README.md)                            |:heavy_check_mark:|
-| [Лабораторна робота 3](3_lab/README.md)                            |:heavy_check_mark:|
-| [Лабораторна робота 4](4_lab/README.md)                            |:heavy_check_mark:|
-| [Лабораторна робота 5](https://tan4esm.github.io/tan4es.github.io/)|:heavy_check_mark:|
+|---------------------------------------------------------------|------------------|
+| [Вступ, робота з Markdown](init/README.md)                    |:heavy_check_mark:|
+| [Лабораторна робота 1](1_lab/README.md)                       |:heavy_check_mark:|
+| [Лабораторна робота 2](2_lab/README.md)                       |:heavy_check_mark:|
+| [Лабораторна робота 3](3_lab/README.md)                       |:heavy_check_mark:|
+| [Лабораторна робота 4](4_lab/README.md)                       |:heavy_check_mark:|
+| [Лабораторна робота 5](https://tan4esm.github.io/tk330_oop_m/)|:heavy_check_mark:|
